@@ -17,8 +17,7 @@
  ******************************************************************************
  */
 
-#include <stdint.h>
-#include "stm32f407xx.h"
+#include "main.h"
 
 int main(void)
 {
